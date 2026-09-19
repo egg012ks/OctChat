@@ -16,15 +16,14 @@
 
 ## 下载
 
-请到 [Releases](https://github.com/egg012ks/OctChat/releases) 页面下载对应平台的安装包：
+请到 [Releases](https://github.com/sakura01266/OctChat/releases) 页面下载对应平台的安装包：
 
 | 平台 | 格式 | 下载链接 |
 |---|---|---|
-| Linux | DEB | [octchat_1.1.0_amd64.deb](https://github.com/egg012ks/OctChat/releases/download/1.1/octchat_1.1.0_amd64.deb) |
-| Linux | RPM | [octchat-1.1.0-1.x86_64.rpm](https://github.com/egg012ks/OctChat/releases/download/1.1/octchat-1.1.0-1.x86_64.rpm) |
-| Windows | EXE | [OctChat-1.1.0.exe](https://github.com/egg012ks/OctChat/releases/download/1.1/OctChat-1.1.0.exe) |
-| Windows | MSI | [OctChat-1.1.0.msi](https://github.com/egg012ks/OctChat/releases/download/1.1/OctChat-1.1.0.msi) |
-| 通用 | JAR | [OctChatClient.jar](https://github.com/egg012ks/OctChat/releases/download/1.1/OctChatClient.jar) |
+| Linux | DEB | [octchat_0.1.1-1_amd64.deb](https://github.com/sakura01266/OctChat/releases/download/v0.1.1/octchat_0.1.1-1_amd64.deb) |
+| Windows | EXE | [OctChat-0.1.1.exe](https://github.com/sakura01266/OctChat/releases/download/v0.1.1/OctChat-0.1.1.exe) |
+| Windows | MSI | [OctChat-0.1.1.msi](https://github.com/sakura01266/OctChat/releases/download/v0.1.1/OctChat-0.1.1.msi) |
+| 通用 | JAR | [OctChatClient.jar](https://github.com/sakura01266/OctChat/releases/download/v0.1.1/OctChatClient.jar) |
 
 > **通用 JAR 说明**：需要本机已安装 Java 17 或更高版本。Windows 的 EXE / MSI 安装包已内嵌 JRE，双击即用。
 
@@ -32,7 +31,7 @@
 
 ### 启动客户端
 
-- **Windows**：双击 `OctChat.exe` 或 `OctChat-1.1.0.exe`（自带 JRE，免安装）
+- **Windows**：双击 `OctChat.exe` 或 `OctChat-0.1.1.exe`（自带 JRE，免安装）
 - **Linux**：安装 DEB / RPM 后从应用菜单启动，或运行 `octchat`
 - **通用 JAR**：双击 `OctChatClient.jar`（需 Java 17+）
 
